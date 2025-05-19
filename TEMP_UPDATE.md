@@ -6,3 +6,4 @@ Update API integration notes
 Minor CSS alignment fix
 Improve error handling flow
 Organize project folder structure
+Finalize README formatting
